@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "paritosh",
+      "email": "upreti",
+      "mobile": "8656969",
+      "address": "hbkbbkh",
+      "services": ""
+    },
+    {
+      "id": 3,
+      "name": "pkjo",
+      "email": "onklj ",
+      "mobile": "686668",
+      "address": "hjhhh",
+      "services": ""
+    },
+    {
+      "id": 4,
+      "name": "hjbjb",
+      "email": "jknbkjb",
+      "mobile": "bbkjbk",
+      "address": "bkbk",
+      "services": null
+    },
+    {
+      "id": 5,
+      "name": "paritosh",
+      "email": "paritoshupreti777",
+      "mobile": "0879789789",
+      "address": "nainital",
+      "services": "room"
+    },
+    {
+      "id": 6,
+      "name": "paritosh",
+      "email": "pbuioi",
+      "mobile": "7967897",
+      "address": "hv kbg",
+      "services": "8076y98"
+    },
+    {
+      "id": 7,
+      "name": "paritosh",
+      "email": "new wmail",
+      "mobile": "67768968`",
+      "address": "paojop",
+      "services": "pajdab"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signup": [
+    {
+      "name": "paritosh",
+      "email": "par11",
+      "mobile": "12345",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "paritosh",
+      "email": "par11",
+      "mobile": "12345",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "paritosh ",
+      "email": "paritoshupreti1999@gmail.com",
+      "mobile": "7895779916",
+      "password": "qwerty",
+      "id": 3
+    },
+    {
+      "name": "paritosh ",
+      "email": "paritoshupreti1999@gmail.com",
+      "mobile": "7895779916",
+      "password": "qwerty",
+      "id": 4
+    },
+    {
+      "name": "paritosh",
+      "email": "par111",
+      "mobile": "578587",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "paritosh",
+      "email": "par111",
+      "mobile": "578587",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
