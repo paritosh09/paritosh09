@@ -18,7 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 npm i json-server
 
-##start json server
+## start json server
 
 json-server -p 3001 -w db.json
 
