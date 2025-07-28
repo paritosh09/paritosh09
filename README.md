@@ -1,6 +1,5 @@
 <div align="center">
 
-
  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
@@ -55,14 +54,12 @@
 </div>
 
 <div align="center">
-<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
+<h2 align='center'><strong>Socials Profiles 💻</strong></h2>
 
  <br><br>
 <a href="www.linkedin.com/in/paritoshupreti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:paritohupreti1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  
-  <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
   
 </a>
 
@@ -101,7 +98,7 @@
 	</tr>
 	<tr>
 		<td><strong>Hosting Services</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,aws,vercel,netlify&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
