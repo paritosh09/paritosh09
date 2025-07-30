@@ -137,12 +137,13 @@
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
-<div align=center>
-  <img width=390 src= https://github-readme-stats.vercel.app/api?username=paritosh09&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true/>
-  <img width=390 src= https://github-readme-streak-stats.herokuapp.com/?user=paritosh09&theme=midnight-purple&hide_border=true/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=paritosh09&theme=tokyonight&hide_border=true" />
+  <br />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
+
 
 <br/><br/>
 
