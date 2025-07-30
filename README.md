@@ -153,7 +153,6 @@
         </th>
 
   <br />
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
