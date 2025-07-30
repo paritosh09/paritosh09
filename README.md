@@ -125,6 +125,35 @@
 
 <br><br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YPS7/YPS7/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡️ Stats ⚡️</h2>
+<br>
+<div align=center>
+  <img width=390 src= https://github-readme-stats.vercel.app/api?username=paritosh09&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true/>
+  <img width=390 src= https://github-readme-streak-stats.herokuapp.com/?user=paritosh09&theme=midnight-purple&hide_border=true/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+
+<br/>
+
 </table>
 </div>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
