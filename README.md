@@ -126,12 +126,14 @@
 <br><br>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paritosh09/paritosh09/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2>🐍✨ Watch the Snake Devour My Contributions! ✨🐍</h2>
+  <br />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paritosh09/paritosh09/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+  <br />
+  <p><i>Every commit I make, the snake grows stronger... 🧠🔥</i></p>
+  <br/><br/>
 </div>
+
 
 <hr/>
 
