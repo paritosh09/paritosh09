@@ -16,7 +16,7 @@
 
 ![MasterHead](https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi There! <img width="37" src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/3be8d701-16fc-4393-914a-185a4e41c7af.webp"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Paritosh Upreti"/></h1>
+<h1 align="center">Hi There! <img width="37" src="https://i.postimg.cc/1zHm9FVs/3be8d701-16fc-4393-914a-185a4e41c7af.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Paritosh Upreti"/></h1>
 
 
 <h3 align="center">
