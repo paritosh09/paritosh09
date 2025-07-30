@@ -20,8 +20,8 @@
 
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Generative+AI+Explorer;Java+%7C+Python+%7C+Angular+Expert;Cloud+and+DevOps+Engineer;Open-source+Contributor;System+Design+Enthusiast;
-;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&color=9400D3&size=29&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Generative+AI+Explorer;Java+%7C+Python+%7C+Angular+Expert;Cloud+and+DevOps+Engineer;Open-source+Contributor;System+Design+Enthusiast;" alt="Typing SVG" />
+
 
 </h3>
 
