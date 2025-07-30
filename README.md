@@ -145,6 +145,13 @@
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paritosh09&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
         </th>
+
+ <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=paritosh09&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paritosh09&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+
   <br />
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
