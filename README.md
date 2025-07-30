@@ -48,9 +48,9 @@
   
 - ⚡ Fun fact **I am a Backend Techie🕸️🕸️**
   <div align="center">
-  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.webp" width="200" />
-  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.webp" width="200" />
-  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.webp" width="200" />
+  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.png" width="200" />
+  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.png" width="200" />
+  <img src="https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/21e6cb91-6368-491a-b0fc-5929dd426c1f.png" width="200" />
 </div>
 
 <div align="center">
