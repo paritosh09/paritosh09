@@ -139,6 +139,12 @@
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
+
+ <tr>
+		  <th colspan="2" align="center">
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+		  </th>
+		</tr>
 <div align="center">
  <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paritosh09&theme=github_dark">
