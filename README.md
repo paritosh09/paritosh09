@@ -138,7 +138,7 @@
 
  <tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			   <img src="./profile-3d-contrib/svgviewer.app.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
 <div align="center">
