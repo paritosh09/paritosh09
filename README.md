@@ -47,11 +47,7 @@
 - 👀 I’m interested in **Web Development, Backend, and DSA**
   
 - ⚡ Fun fact **I am a Backend Techie🕸️🕸️**
-  <div align="center">
-  <img src="https://i.postimg.cc/zB8y75KX/21e6cb91-6368-491a-b0fc-5929dd426c1f.gif" width="200" />
-  <img src="https://i.postimg.cc/zB8y75KX/21e6cb91-6368-491a-b0fc-5929dd426c1f.gif" width="200" />
-  <img src="https://i.postimg.cc/zB8y75KX/21e6cb91-6368-491a-b0fc-5929dd426c1f.gif" width="200" />
-</div>
+ 
 
 <div align="center">
 <h2 align='center'><strong>Socials Profiles 💻</strong></h2>
