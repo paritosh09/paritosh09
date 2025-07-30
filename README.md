@@ -73,7 +73,7 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
