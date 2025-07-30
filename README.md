@@ -140,8 +140,11 @@
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=paritosh09&theme=tokyonight&hide_border=true" />
+ <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paritosh09&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paritosh09&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
   <br />
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritosh09&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
