@@ -42,11 +42,17 @@
 
 - 📫 reach me @  **paritoshupreti1999@gmail.com**
 
-- 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
+ 
 
-- 👀 I’m interested in **Web Development, Backend, and DSA**
-  
-- ⚡ Fun fact **I am a Backend Techie🕸️🕸️**
+   
+## What I’m Building
+
+-   Production features for LightX Editor — performance, scalability, and delightful UX.
+    
+-   GenAI + automation workflows that integrate seamlessly into existing products and pipelines.
+    
+-   Developer experience tooling and scripts that reduce toil and improve delivery speed.
+    
  
 
 <div align="center">
@@ -120,6 +126,13 @@
 </div>
 
 <br><br>
+
+Signal > Noise
+Clean APIs, fast UIs, reliable systems.
+
+Measure, iterate, optimize.
+
+Ship value.
 
 <div align="center">
   <h2>🐍✨ Watch the Snake Devour My Contributions! ✨🐍</h2>
