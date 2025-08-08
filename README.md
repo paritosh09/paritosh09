@@ -130,7 +130,7 @@ Developer velocity: CI/CD pipelines, schema/version governance, automated qualit
 
 <br><br>
 
-##Signal > Noise
+## Signal > Noise
 
 Backend first: correctness, latency, resilience.
 
