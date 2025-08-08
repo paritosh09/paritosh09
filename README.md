@@ -34,13 +34,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritosh09" alt="paritosh09" /> </p>
 
 
-- 🔭 I’m currently working on **lightxeditor.com**
-
-- 🌱 I’m currently learning **GenAi,Ai,ml,LAngchain,langGraph,rssfeed,**
-
-- 💬 Ask me about **java,python,javascript,angular,Aws,Elasticsearch,Apache Solr,Kafka,System Design**
-
-- 📫 reach me @  **paritoshupreti1999@gmail.com**
+### 🚀 About Me
+- 💼 **Full Stack Engineer** with 4+ years of experience in **Java, Spring Boot, Angular, Python, Cloud, and AI**
+- 🌐 Specializing in **scalable architectures, backend engineering, and generative AI solutions**
+- ☁️ Experienced in **AWS, CI/CD, System Design, Search Technologies (Elasticsearch, Apache Solr)**
+- 📫 **Contact:** `paritoshupreti1999@gmail.com`
+- 🎯 Passionate about **building high-impact systems** and mentoring engineers
 
  
 
