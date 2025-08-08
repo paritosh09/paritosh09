@@ -47,12 +47,15 @@
    
 ## What I’m Building
 
--   Production features for LightX Editor — performance, scalability, and delightful UX.
-    
--   GenAI + automation workflows that integrate seamlessly into existing products and pipelines.
-    
--   Developer experience tooling and scripts that reduce toil and improve delivery speed.
-    
+ Low‑latency, fault‑tolerant backend services for LightX Editor: Spring Boot microservices, circuit breakers, idempotency, and horizontal scalability with efficient caching and async queues.
+
+AI/ML integrations in production: embedding pipelines, RAG services, vector search, and model orchestration (LangChain/LangGraph) with observability, rollback, and A/B evaluation.
+
+Data and search platforms: Elasticsearch/Solr relevance tuning, synonyms/analyzers, analytics-driven ranking, and near‑real‑time indexing.
+
+Secure API platforms: versioned REST APIs, OAuth2/JWT, rate limiting, request tracing, and SLO-driven performance budgets.
+
+Developer velocity: CI/CD pipelines, schema/version governance, automated quality gates, and golden paths for AI feature rollout.
  
 
 <div align="center">
@@ -128,9 +131,15 @@
 <br><br>
 
 Signal > Noise
-Clean APIs, fast UIs, reliable systems.
+Backend first: correctness, latency, resilience.
 
-Measure, iterate, optimize.
+AI with rigor: measurable lift, eval harnesses, safety/guardrails.
+
+Search that performs: relevant, explainable, fast.
+
+Operability: tracing, metrics, alerts—before scale hits.
+
+Ship value: iterate with data, retire what doesn’t move metrics.
 
 Ship value.
 
